@@ -1,0 +1,12 @@
+{
+  "name": "sosoquantumbotapp",
+  "version": "1.0.0",
+  "description": "Bot Telegram pour signaux crypto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
